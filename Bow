@@ -1,0 +1,3 @@
+(*Paste into command block*)
+
+/give @p bow 1 0 {ench:[{id:48,lvl:255},{id:49,lvl:255},{id:50,lvl:255},{id:51,lvl:255},{id:34,lvl:255}]}
