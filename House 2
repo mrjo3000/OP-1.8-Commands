@@ -1,0 +1,66 @@
+(*PASTE INTO COMMAND BLOCK FOR A 2nd HOUSE*)
+
+/summon FallingSand ~ ~1 ~ 
+{Block:redstone_block,Time:1,Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~ ~-30 ~-1 ~ ~0 ~-1 redstone_block},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~6 ~-27 ~10 wall_sign 5 replace 
+{Text1:"Created by",Text2:"DigMinecraft.com"}},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~9 ~-26 ~14 torch 4},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~11 ~-25 ~14 torch 4},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~9 ~-24 ~6 torch 3},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~11 ~-23 ~6 torch 3},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~14 ~-22 ~11 torch 2},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~14 ~-21 ~9 torch 2},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~6 ~-20 ~11 torch 1},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~6 ~-19 ~9 torch 1},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~4 ~-18 ~11 torch 2},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~4 ~-17 ~9 torch 2},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~4 ~-16 ~10 wall_sign 4 replace 
+{Text1:"Created by",Text2:"DigMinecraft.com"}},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~14 ~-17 ~14 ~14 ~-17 ~13 chest},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~5 ~-11 ~5 ~15 ~-11 ~15 stone_slab 3},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~14 ~-15 ~6 crafting_table},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~10 ~-14 ~7 bed 2},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~10 ~-13 ~6 bed 10},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~6 ~-13 ~6 ~14 ~-13 ~14 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~5 ~-9 ~7 ~5 ~-9 ~8 glass_pane},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~5 ~-8 ~12 ~5 ~-8 ~13 glass_pane},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~15 ~-7 ~7 ~15 ~-7 ~8 glass_pane},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~15 ~-6 ~12 ~15 ~-6 ~13 glass_pane},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~7 ~-5 ~5 ~8 ~-5 ~5 glass_pane},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~12 ~-4 ~5 ~13 ~-4 ~5 glass_pane},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~7 ~-3 ~15 ~8 ~-3 ~15 glass_pane},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~12 ~-2 ~15 ~13 ~-2 ~15 glass_pane},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~5 ~-2 ~10 dark_oak_door 8},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~5 ~-2 ~10 dark_oak_door 0},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~5 ~-2 ~5 ~15 ~3 ~15 planks 0 hollow}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
