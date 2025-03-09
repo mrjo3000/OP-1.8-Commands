@@ -1,0 +1,89 @@
+COLOR CODES:
+https://htmlcolorcodes.com/minecraft-color-codes/
+
+
+
+How to use enchantment ids in a command
+
+/give @p [Item ID] [amount] [data] {ench:[{id:#,lvl:#}]}
+
+
+To add more, just do this
+
+/give @p [Item ID] [amount] [data] {ench:[{id:#,lvl:#},{id:#,lvl:#}]}
+
+
+To add a name, do this
+
+/give @p [Item ID] [amount] [data] {ench:[{id:#,lvl:#}],display:{Name:"Put Whatever name you want here"}}
+
+
+Armor:
+
+0 - Protection
+
+1 - Fire Protection
+
+2 - Feather Falling
+
+3 - Blast Protection
+
+4 - Projectile Protection
+
+5 - Respiration
+
+6 - Aqua Affinity
+
+7 - Thorns
+
+34 - Unbreaking
+
+
+Weapons:
+
+16 - Sharpness
+
+17 - Smite
+
+18 - Bane of Arthropods
+
+19 - Knockback
+
+20 - Fire Aspect
+
+21 - Looting
+
+34 - Unbreaking
+
+Tools:
+
+32 - Efficiency
+
+33 - Silk Touch
+
+34 - Unbreaking
+
+35 - Fortune
+
+Bows:
+
+48 - Power
+
+49 - Punch
+
+50 - Flame
+
+51 - Infinity
+
+34 - Unbreaking
+
+Fishing Rod:
+
+61 - Luck of the Sea
+
+62 - Lure
+
+34 - Unbreaking
+
+
+/give @p netherite_sword{display:{Lore:['{"text":"This is the MOST powerful sword!","color":"#FF0000","underlined":true}','{"text":"Leave a like if you read this!","color":"gold","bold":true}']}} 1 /give @p diamond_block{display:{Lore:['[{"text":"This diamond block is ","color":"aqua","bold":true,"italic":false},{"text":"VERY","color":"green"},{"text":" valuable!","italic":false}]','{"text":"So make sure nobody steals it!","color":"white","bold":true}','{"text":"dofnsodfnsdoifnsdfiksdlfnisknidfn","color":"#FF0000","obfuscated":true}']}} 1
