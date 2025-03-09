@@ -1,0 +1,3 @@
+(*Paste into command block*)
+
+/give @p fishing_rod 1 0 {ench:[{id:61,lvl:255},{id:62,lvl:255},{id:34,lvl:255}]}
