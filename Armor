@@ -1,0 +1,9 @@
+(*Paste These Commands into Command blocks!*)
+
+/give @p diamond_helmet 1 0 {ench:[{id:0,lvl:255},{id:1,lvl:255},{id:2,lvl:255},{id:3,lvl:255},{id:4,lvl:255},{id:5,lvl:255},{id:5,lvl:255},{id:6,lvl:255},{id:7,lvl:255},{id:34,lvl:255}]}
+
+/give @p diamond_chestplate 1 0 {ench:[{id:0,lvl:255},{id:1,lvl:255},{id:2,lvl:255},{id:3,lvl:255},{id:4,lvl:255},{id:5,lvl:255},{id:5,lvl:255},{id:6,lvl:255},{id:7,lvl:255},{id:34,lvl:255}]}
+
+/give @p diamond_leggings 1 0 {ench:[{id:0,lvl:255},{id:1,lvl:255},{id:2,lvl:255},{id:3,lvl:255},{id:4,lvl:255},{id:5,lvl:255},{id:5,lvl:255},{id:6,lvl:255},{id:7,lvl:255},{id:34,lvl:255}]}
+
+/give @p diamond_boots 1 0 {ench:[{id:0,lvl:255},{id:1,lvl:255},{id:2,lvl:255},{id:3,lvl:255},{id:4,lvl:255},{id:5,lvl:255},{id:5,lvl:255},{id:6,lvl:255},{id:7,lvl:255},{id:34,lvl:255}]}
