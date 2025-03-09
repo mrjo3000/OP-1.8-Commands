@@ -1,0 +1,3 @@
+(*Paste into a command block*)
+
+/give @p minecraft:stick 1 0 {ench:[{id:19,lvl:100}],display:{Name:"Knockback Stick"}}
