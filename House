@@ -1,0 +1,61 @@
+(*PASTE INTO COMMAND BLOCK FOR A FREE HOUSE!!!*) (*CREDS TO DIGMINECRAFT*)
+/summon FallingSand ~ ~1 ~ 
+{Block:redstone_block,Time:1,Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~ ~-28 ~-1 ~ ~1 ~-1 redstone_block},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~6 ~-25 ~17 wall_sign 5 replace 
+{Text1:"Created by",Text2:"DigMinecraft.com"}},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~5 ~-25 ~17 dark_oak_door 8},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~5 ~-25 ~17 dark_oak_door 0},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/setblock ~4 ~-22 ~17 wall_sign 4 replace 
+{Text1:"Created by",Text2:"DigMinecraft.com"}},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~4 ~-23 ~32 ~6 ~-13 ~32 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~4 ~-22 ~26 ~6 ~-12 ~26 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~8 ~-21 ~28 ~8 ~-11 ~30 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~2 ~-20 ~28 ~2 ~-10 ~30 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~28 ~-19 ~32 ~30 ~-9 ~32 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~28 ~-18 ~26 ~30 ~-8 ~26 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~32 ~-17 ~28 ~32 ~-7 ~30 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~26 ~-16 ~28 ~26 ~-6 ~30 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~28 ~-15 ~8 ~30 ~-5 ~8 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~28 ~-14 ~2 ~30 ~-4 ~2 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~32 ~-13 ~4 ~32 ~-3 ~6 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~26 ~-12 ~4 ~26 ~-2 ~6 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~4 ~-11 ~8 ~6 ~-1 ~8 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~4 ~-10 ~2 ~6 ~0 ~2 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~8 ~-9 ~4 ~8 ~1 ~6 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~2 ~-8 ~4 ~2 ~2 ~6 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~27 ~-7 ~3 ~31 ~1 ~7 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~3 ~-6 ~27 ~7 ~2 ~31 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~27 ~-5 ~27 ~31 ~3 ~31 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~3 ~-4 ~3 ~7 ~4 ~7 cobblestone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~6 ~1 ~6 ~28 ~1 ~28 air},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~6 ~-3 ~6 ~28 ~-3 ~28 stone},Riding:
+{id:FallingSand,Block:command_block,Time:1,TileEntityData:
+{Command:/fill ~5 ~-2 ~5 ~29 ~3 ~29 cobblestone 0 hollow}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
